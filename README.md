@@ -1,4 +1,5 @@
 # Path Search Algorithms AIO
+An all-in-one path search algorithms for grid-like maze, including A*, Bi-HS, MMA*, BFS, and Bi-BFS
 ## Files
 `AStar.py`
 - `A_star`: A*
