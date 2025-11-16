@@ -1,9 +1,9 @@
 # Path Search Algorithms AIO
 `AStar.py`
-- A*
-- Bi-HS (Bidirectional A*)
-- MMA* (Meet-in-the-Middle A*)
+- `A_star`: A*
+- `Bi_HS`: Bidirectional Heuristic Search (Bidirectional A*)
+- `MM`: MMA* (Meet-in-the-Middle A*)
 
 `BFS.py`
-- BFS
-- Bi-BFS (Bidirectional BFS)
+- `BFS`: Breadth First Search
+- `Bi_BFS`: Bidirectional BFS
